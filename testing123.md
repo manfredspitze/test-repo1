@@ -1,3 +1,3 @@
-### Markdown Test
+### Wiki Test
 
-This is just a test page.
+Check out the wiki for this repo!
